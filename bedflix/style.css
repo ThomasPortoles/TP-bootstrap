@@ -1,0 +1,41 @@
+.containerprincipal{
+    background-image: url(img/fond.jpg);
+    background-position: -400px -50px;
+    
+}
+
+#textstyle{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 563;
+    font-size: 30px;
+    line-height: 20px;
+    letter-spacing: 60%;
+}
+
+
+img{
+position: relative;
+margin-bot: 0px;
+}
+.title{
+    padding-left:120px;
+    font-family: 'Gluten', cursive;
+    color: white;
+}
+
+h4{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    width: 350px;
+    font-size: 20px;
+}
+
+#caroussel{
+    background-image: url(img/carrousels\ background.png);
+padding-left: 150px;
+padding-right: 150px;
+padding-bottom: 20px;
+
+}
